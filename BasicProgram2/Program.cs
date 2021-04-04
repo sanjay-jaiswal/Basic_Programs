@@ -7,10 +7,32 @@ namespace BasicProgram2
 
         static void Main(string[] args)
         {
-                //ReplaceString replace = new ReplaceString();
-                //replace.ReadInput();
-                //FlipCoin flip = new FlipCoin();
-                //flip.ReadInput();
+            //ReplaceString replace = new ReplaceString();
+            //replace.ReadInput();
+            //FlipCoin flip = new FlipCoin();
+            //flip.ReadInput();
+
+            StopWatch.calElapsedTime();
+
+            //VendingMachine.ReadAmountToFindChange();
+
+
+            //CouponNumber.ReadNumberOfCoupon();
+
+
+            //TripletAddsToZero.FindTriplet();
+            //TripletAddsToZero.FindTripletsWithHashSet();
+
+            //WindChill.calTemp();
+
+           // QuadraticRoots.findRoots();
+            ///
+
+            //FindQuadraticRoots.findQuadRoots();
+
+            
+            Gambler.ReadStackAmountAndGoal();
+
 
             //first harmonic will run then muti dimensional array .
                 HarmonicNumber.ReadHarmonicNumber();

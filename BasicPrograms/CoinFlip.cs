@@ -4,10 +4,10 @@ using System.Text;
 
 namespace BasicPrograms
 {
-    class CoinFlip
+    public class CoinFlip
     {
         //Input method to take i/p from user
-        public void ReadInput()
+        public static void ReadInput()
         {
             Console.WriteLine("How many number of times you wants to flip the coin : ");
             string input = Console.ReadLine();
